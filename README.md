@@ -1,7 +1,17 @@
-# jekyll-base
+# v3
 
-> ⚠️ **Deprecation Notice** 🏳
+Third iteration of my personal website built with Jekyll.
+
+> 📢 **PSA for those who want to fork or copy this repo and use it for their own site:**
 >
-> We are focusing our resources on building new templates that help you build a better web, because of that we're deprecating this template. We care about the community so we propose if anyone wants to maintain or take stewardship over the project please contact us at [devexperience@netlify.com](mailto:devexperience@netlify.com). If you want to share anything with the team about this template, you can also fill out [this form](https://template-feedback.netlify.app/).
+> Please be a decent person and give me proper credit by linking back to my website! Refer to this handy [quora post](https://www.quora.com/Is-it-bad-to-copy-other-peoples-code) if you're not sure.
 
-Fresh Jekyll install from running "jekyll new ..."
+## Dependencies
+
+- [Gulp](https://gulpjs.com/)
+
+## Getting Started
+
+1.  `gem install jekyll sass bundler jekyll-minifier jekyll-sitemap`
+2.  `npm install`
+3.  `npm start`
